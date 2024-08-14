@@ -1,0 +1,13 @@
+.black{
+    background-color: black;
+}
+.green{
+    background-color: green;
+}
+.border-green{
+    border: 4px solid rgb(150, 12, 192);
+}
+.textD{
+    font-weight: bold;
+    color: green;
+}
